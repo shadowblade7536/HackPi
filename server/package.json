@@ -24,7 +24,8 @@
     "wifi": "0.0.2",
     "wifi-control": "^2.0.0",
     "wireless-tools": "^0.19.0",
-    "xml2js": "^0.4.17"
+    "xml2js": "^0.4.17",
+    "snyk": "^1.85.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
@@ -36,8 +37,11 @@
   },
   "scripts": {
     "start": "babel-node functions/phishing.js --presets es2015,stage-2",
-    "dev": "nodemon main.js --exec babel-node --presets es2015,stage-2"
+    "dev": "nodemon main.js --exec babel-node --presets es2015,stage-2",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "Infirmos",
-  "license": "ISC"
+  "license": "ISC",
+  "snyk": true
 }
