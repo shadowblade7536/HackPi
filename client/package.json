@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "16.0.0-alpha.6",
-    "react-native": "^0.43.1",
+    "react-native": "^0.59.0",
     "react-native-chart": "^1.0.8-beta",
     "react-native-pathjs-charts": "^0.0.26",
     "react-native-socketio": "^0.3.0",
