@@ -10,7 +10,7 @@
     "reset": "react-native eject"
   },
   "dependencies": {
-    "react": "16.0.0-alpha.6",
+    "react": "16.5.0",
     "react-native": "^0.43.1",
     "react-native-chart": "^1.0.8-beta",
     "react-native-pathjs-charts": "^0.0.26",
