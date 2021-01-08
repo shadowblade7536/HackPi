@@ -17,7 +17,7 @@
     "react-native-socketio": "^0.3.0",
     "react-native-vector-icons": "^4.0.1",
     "react-native-webview-bridge": "^0.33.0",
-    "socket.io-client": "1.5.x",
+    "socket.io-client": "3.0.0",
     "socket.io-react": "^1.1.2",
     "undefined": "^0.1.0"
   },
