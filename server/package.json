@@ -18,7 +18,7 @@
     "os": "^0.1.1",
     "pcap2": "^3.0.4",
     "pretty-bytes": "^4.0.2",
-    "socket.io": "^1.7.2",
+    "socket.io": "^3.0.0",
     "systeminformation": "^3.16.0",
     "underscore": "^1.8.3",
     "wifi": "0.0.2",
